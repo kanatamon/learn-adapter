@@ -1,0 +1,24 @@
+{
+  "name": "adapter",
+  "version": "1.0.0",
+  "description": "example of adapter design pattern",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "adapter",
+    "design",
+    "pattern"
+  ],
+  "author": "Kantapon Sritiyot",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^6.18.2",
+    "babel-loader": "^6.2.7",
+    "babel-preset-latest": "^6.16.0",
+    "babel-preset-stage-2": "^6.18.0",
+    "webpack": "^2.1.0-beta.7"
+  }
+}
